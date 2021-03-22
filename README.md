@@ -8,5 +8,6 @@
 ## Practice02
 
 <p align="center">
-  <img src="imgs/Practicum02.png">
+  <img src="imgs/Practicum02-figure01.png" width=40%>
+  <img src="imgs/Practicum02-figure02.png" width=40%>
 </p>
