@@ -5,7 +5,7 @@ eps0 = 8.854e-12;
 
 %% Inputs
 rhoL = 10e-9;
-L    = 3;
+L    = 5;
 dz   = 0.1;
 drho = 0.02;
 zmin = -2.5;
@@ -20,7 +20,7 @@ Ca = rhoL/(4*pi*eps0);
 %z = zmin:dz:zmax;
 %rho = rhomin:drho:rhomax;
 Nz = (zmax-zmin)/dz+1;
-Nrho = (rhoamx-rhomin)/drho+1;
+Nrho = (rhomax-rhomin)/drho+1;
 
 for ii=1:Nz
     zii = (ii-1)*dz;
@@ -54,7 +54,7 @@ subplot(2,1,1), plot(rho,Erhom1,rho,Ezm1)
 Nrhom = 10;
 Erhom2 = Erho(:,Nrhom);
 Ezm2 = Ez(:,Nrhom);
-subplot(2,1,2), plot(z,Erhom2,rho,Ezm2)
+subplot(2,1,2), plot(z,Erhom2,z,Ezm2)
 
 figure(2)
 subplot(2,1,1), pcolor(rho,z,Erho), shading interp, colorbar
