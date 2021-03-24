@@ -11,3 +11,15 @@
   <img src="imgs/Practicum02-figure01.png" width=40%>
   <img src="imgs/Practicum02-figure02.png" width=40%>
 </p>
+
+## Practice02 Optional
+
+<p align="center">
+  <img src="imgs/Practicum02-1-figure01.png" width=40%>
+  <img src="imgs/Practicum02-1-figure02.png" width=40%>
+</p>
+
+<p align="center">
+  <img src="imgs/Practicum02-2-figure01.png" width=40%>
+  <img src="imgs/Practicum02-2-figure02.png" width=40%>
+</p>
