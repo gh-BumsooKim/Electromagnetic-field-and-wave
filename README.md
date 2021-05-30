@@ -23,3 +23,10 @@
   <img src="imgs/Practicum02-2-figure01.png" width=40%>
   <img src="imgs/Practicum02-2-figure02.png" width=40%>
 </p>
+
+## Practice04 
+
+<p align="center">
+  <img src="imgs/Practicum04-1-figure01.png" width=40%>
+  <img src="imgs/Practicum04-2-figure01.png" width=40%>
+</p>
